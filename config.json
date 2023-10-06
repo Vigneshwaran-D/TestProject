@@ -1,0 +1,14 @@
+{
+  
+
+
+
+    "DEPLOYMENT_NAME":"POCScouting",
+    "OPENAI_API_BASE":"https://dfggenerativeaiv2.openai.azure.com/",
+    "OPENAI_API_VERSION":"2023-07-01-preview",
+    "OPENAI_API_KEY":"f3bd3469454a4a2c8dc3bcc57debe775",
+    "OPENAI_API_TYPE":"azure"
+   
+
+
+}
